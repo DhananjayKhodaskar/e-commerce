@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+:root{
+    --nav:#CC313D;
+    --fontStyle:'Bebas Neue', cursive;
+    
+    
+}
+/* 'Teko', sans-serif */
+@media only screen and (max-width:424px){
+    #card-image{
+width: 11rem;
+    }
+    :root{
+        font-size: 11px;
+    }
+}
+body{
+    background-color: #F7C5CC;
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+.navbar{
+    background-color: #cc313d;
+    background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+}
+@media only screen and (max-width:992px){
+    #detailAddedImage{
+        width: 100%;
+    }
+}
