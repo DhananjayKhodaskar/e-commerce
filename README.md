@@ -1,6 +1,19 @@
-# Getting Started with Create React App
+# E-Commerse App using React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Introduction
+
+This is an e-commerce application with a dummy API service created using My JSON Server. The application is built with React and Redux and allows users to view a list of products, edit and delete individual products, add products to a cart, view the cart, and persist the cart data even after a page refresh. The UI also includes sort and filter functionalities, as well as alerts for success and error messages. The code can be found in this GitHub repository.
+
+# Screenshots!
+
+
+
+![Screenshot_6](https://user-images.githubusercontent.com/125384723/236693000-5044b93f-744d-45c6-a2cc-65387ffd3d84.png)
+![Screenshot_7](https://user-images.githubusercontent.com/125384723/236693008-dc96cce7-c341-45f5-8c3c-91a6db9c5d1f.png)
+![Screenshot_8](https://user-images.githubusercontent.com/125384723/236693012-ab2db1fa-1036-48a5-bec7-7ee805f67230.png)
+[Screenshot_9](https://user-images.githubusercontent.com/125384723/236693017-4de7a71d-5bf0-4e33-af7c-85b162c89694.png)
+
+
 
 ## Available Scripts
 
