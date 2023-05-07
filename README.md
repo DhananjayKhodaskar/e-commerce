@@ -8,10 +8,15 @@ This is an e-commerce application with a dummy API service created using My JSON
 
 
 
+
 ![Screenshot_6](https://user-images.githubusercontent.com/125384723/236693000-5044b93f-744d-45c6-a2cc-65387ffd3d84.png)
 ![Screenshot_7](https://user-images.githubusercontent.com/125384723/236693008-dc96cce7-c341-45f5-8c3c-91a6db9c5d1f.png)
+
+
 ![Screenshot_8](https://user-images.githubusercontent.com/125384723/236693012-ab2db1fa-1036-48a5-bec7-7ee805f67230.png)
-[Screenshot_9](https://user-images.githubusercontent.com/125384723/236693017-4de7a71d-5bf0-4e33-af7c-85b162c89694.png)
+![Screenshot_9](https://user-images.githubusercontent.com/125384723/236693141-756116ea-b595-4480-812a-d961fee53757.png)
+![Screenshot_10](https://user-images.githubusercontent.com/125384723/236693098-3df183cc-4cb5-4b61-8d3d-4c3085c3bc4b.png)
+![Screenshot_11](https://user-images.githubusercontent.com/125384723/236693101-15fbf3e0-e55c-4b93-8e7c-2bd3324f413d.png)
 
 
 
